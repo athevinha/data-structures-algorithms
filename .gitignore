@@ -11,7 +11,7 @@ out
 target
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+documents
 # Package Files #
 *.jar
 *.war
