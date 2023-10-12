@@ -32,7 +32,7 @@ public class Cylinder extends Circle {
      *
      * @param radius The radius of the base circle.
      * @param height The height of the Cylinder.
-     * @param color The color of the Cylinder.
+     * @param color  The color of the Cylinder.
      */
     public Cylinder(double radius, double height, String color) {
         super(radius, color);
@@ -82,6 +82,7 @@ public class Cylinder extends Circle {
      */
     @Override
     public String toString() {
-        return "Cylinder[Circle[radius=" + getRadius() + ", color=" + getColor() + "], height=" + height + "]";
+        return "Cylinder[Circle[radius=" + getRadius() + ", color="
+                + getColor() + "], height=" + height + "]";
     }
 }
