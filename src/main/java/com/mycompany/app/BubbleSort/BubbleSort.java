@@ -1,4 +1,3 @@
-package DataStructures.BubbleSort;
 
 public class BubbleSort {
     private int[] arr;
