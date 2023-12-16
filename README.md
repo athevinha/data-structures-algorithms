@@ -1,2 +1,3 @@
 # data-structures-algorithms
-DSA
+- DSA
+- Algorithms in university
